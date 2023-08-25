@@ -1,1 +1,2 @@
-# C108-LIKE-AND-DISLIKE-GESTURES
+# PRO-C108-Project-Template
+project template for c108
